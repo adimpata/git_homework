@@ -1,0 +1,5 @@
+In the session of Git & GitHUB I understood the importance of working in teams for effective collaboration and how Git facilitates this process. I learned to:
+
+I initialize a Git repository to start tracking changes.
+I add files to the staging area and commit them.
+To use branches to work on new functionality in isolation.
